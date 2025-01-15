@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>WELCOME</title>
+<title>Insert title here</title>
 </head>
 <body>
 	<form method="post" action="WelcomeServlet"> 
 		<input type="text" name="username"> 
 		<input type="password" name="password"> 
 		<input type="submit" value="送信"> 
-	</form>>
+	</form> 
 </body>
 </html>
